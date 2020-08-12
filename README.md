@@ -8,15 +8,15 @@
 ### My skills include
 
 <p align="left">
-    <img title="Java" src="https://raw.githubusercontent.com/morooi/morooi/master/assets/java.svg" width="70" height="40" />
-    <img title="Python" src="https://raw.githubusercontent.com/morooi/morooi/master/assets/python.svg" width="40" height="40" />
-    <img title="Pytorch" src="https://raw.githubusercontent.com/morooi/morooi/master/assets/pytorch.svg" width="80" height="40" />
-    <img title="Keras" src="https://raw.githubusercontent.com/morooi/morooi/master/assets/keras.svg" width="80" height="40" />
-    <img title="Spring Boot" src="https://raw.githubusercontent.com/morooi/morooi/master/assets/springboot.svg" width="80" height="40" />
-    <img title="Redis" src="https://raw.githubusercontent.com/morooi/morooi/master/assets/redis.svg" width="80" height="40" />
-    <img title="MySQL" src="https://raw.githubusercontent.com/morooi/morooi/master/assets/mysql.svg" width="80" height="40" />
-    <img title="Git" src="https://raw.githubusercontent.com/morooi/morooi/master/assets/git.svg" width="70" height="40" />
-    <img title="Linux" src="https://raw.githubusercontent.com/morooi/morooi/master/assets/linux.svg" width="40" />
+    <img title="Java" src="https://raw.githubusercontent.com/morooi/morooi/master/assets/java.svg" width="50" height="40" />
+    <img title="Python" src="https://raw.githubusercontent.com/morooi/morooi/master/assets/python.svg" width="55" height="40" />
+    <img title="Pytorch" src="https://raw.githubusercontent.com/morooi/morooi/master/assets/pytorch.svg" width="55" height="40" />
+    <img title="Keras" src="https://raw.githubusercontent.com/morooi/morooi/master/assets/keras.svg" width="55" height="40" />
+    <img title="Spring Boot" src="https://raw.githubusercontent.com/morooi/morooi/master/assets/springboot.svg" width="55" height="40" />
+    <img title="Redis" src="https://raw.githubusercontent.com/morooi/morooi/master/assets/redis.svg" width="55" height="40" />
+    <img title="MySQL" src="https://raw.githubusercontent.com/morooi/morooi/master/assets/mysql.svg" width="55" height="40" />
+    <img title="Git" src="https://raw.githubusercontent.com/morooi/morooi/master/assets/git.svg" width="55" height="40" />
+    <img title="Linux" src="https://raw.githubusercontent.com/morooi/morooi/master/assets/linux.svg" width="55" height="40" />
 </p>
 
 <!--

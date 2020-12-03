@@ -21,6 +21,10 @@
     <img title="Linux" src="https://raw.githubusercontent.com/morooi/morooi/master/assets/linux.svg" width="55" height="40" />
 </p>
 
+### Thank you for visiting!
+
+![](http://profile-counter.glitch.me/morooi/count.svg)
+
 <!--
 **morooi/morooi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

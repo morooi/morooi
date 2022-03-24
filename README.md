@@ -2,7 +2,7 @@
 
 ### Hi there, I'm morooi 👋.
 
-- 🧑‍💻 I'm a computer science student from Shanghai, China.
+- 🧑‍💻 I'm a Java developer from Shanghai, China.
 - 🌱 I’m currently learning Java Development, Spring Boot and Distributed Systems.
 
 ### My skills include

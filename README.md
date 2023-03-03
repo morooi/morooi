@@ -2,16 +2,13 @@
 
 ### Hi there, I'm morooi 👋.
 
-- 🧑‍💻 I'm a Java developer from Shanghai, China.
-- 🌱 I’m currently learning Java Development, Spring Boot and Distributed Systems.
+- 🧑‍💻 Java developer from Shanghai, China.
 
 ### My skills include
 
 <p align="left">
     <img title="Java" src="https://raw.githubusercontent.com/morooi/morooi/master/assets/java.svg" width="55" height="40" />
     <img title="Python" src="https://raw.githubusercontent.com/morooi/morooi/master/assets/python.svg" width="55" height="40" />
-    <img title="Pytorch" src="https://raw.githubusercontent.com/morooi/morooi/master/assets/pytorch.svg" width="55" height="40" />
-    <img title="Keras" src="https://raw.githubusercontent.com/morooi/morooi/master/assets/keras.svg" width="55" height="40" />
     <img title="Spring Boot" src="https://raw.githubusercontent.com/morooi/morooi/master/assets/springboot.svg" width="55" height="40" />
     </br>
     </br>
@@ -24,18 +21,3 @@
 ### Thank you for visiting!
 
 ![](http://profile-counter.glitch.me/morooi/count.svg)
-
-<!--
-**morooi/morooi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
